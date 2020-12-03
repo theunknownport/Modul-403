@@ -1,0 +1,6 @@
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\obj\Debug\Multiprogramm.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\bin\Debug\Multiprogramm.exe.config
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\bin\Debug\Multiprogramm.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\bin\Debug\Multiprogramm.pdb
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\obj\Debug\Multiprogramm.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Multiprogramm\obj\Debug\Multiprogramm.pdb

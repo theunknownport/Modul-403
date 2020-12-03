@@ -1,0 +1,6 @@
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\bin\Debug\Temperatur.exe.config
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\bin\Debug\Temperatur.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\bin\Debug\Temperatur.pdb
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\obj\Debug\Temperatur.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\obj\Debug\Temperatur.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Temperatur\obj\Debug\Temperatur.pdb

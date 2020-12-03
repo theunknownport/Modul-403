@@ -1,0 +1,7 @@
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\bin\Debug\Sateliten Calculator.exe.config
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\bin\Debug\Sateliten Calculator.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\bin\Debug\Sateliten Calculator.pdb
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\obj\Debug\Sateliten Calculator.csprojAssemblyReference.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\obj\Debug\Sateliten Calculator.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\obj\Debug\Sateliten Calculator.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Sateliten Calculator\obj\Debug\Sateliten Calculator.pdb

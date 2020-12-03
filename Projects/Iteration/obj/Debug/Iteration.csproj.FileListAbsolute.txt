@@ -1,0 +1,6 @@
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\bin\Debug\Iteration.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\bin\Debug\Iteration.pdb
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\obj\Debug\Iteration.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Iteration\obj\Debug\Iteration.pdb

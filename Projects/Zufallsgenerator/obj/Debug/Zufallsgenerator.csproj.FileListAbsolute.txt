@@ -1,0 +1,6 @@
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\bin\Debug\Zufallsgenerator.exe.config
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\bin\Debug\Zufallsgenerator.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\bin\Debug\Zufallsgenerator.pdb
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\obj\Debug\Zufallsgenerator.csproj.CoreCompileInputs.cache
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\obj\Debug\Zufallsgenerator.exe
+C:\Users\finnb\OneDrive - BBBaden\school\Bearbeitete und eigene Dokumente_BF\MODUL 403\Projects\Zufallsgenerator\obj\Debug\Zufallsgenerator.pdb
