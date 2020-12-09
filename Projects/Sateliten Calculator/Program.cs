@@ -19,27 +19,27 @@ namespace Sateliten_Calculator
 {
     class Program
     {
+
         static void Main(string[] args)
         {
                 Console.WriteLine("Willkommen beim Sateliten rechner. Bitte gib deine Höhe ein: ");
 
+                double doubleHeight = 0;
+
                 try
                 {
-                int height = Convert.ToInt32(Console.ReadLine());
+                doubleHeight = Convert.ToDouble(Console.ReadLine());
                 }
-                
-               
-                double pi = Math.PI;
-                double Re = 6378137.0;
-                double g = 9.81;
-                double powr1 = Re + Convert.ToDouble(height);
-                double powr12 = Math.Pow(powr1, 3);
-                double part1 = pi / Re;
-                double part2 = powr12 / g;
-                double part21 = Math.Pow(Convert.ToDouble(part2), Convert.ToDouble(0.50));
-                double t = 2 * part1 * part21;
-                Console.WriteLine(Convert.ToString(t));
-                Console.ReadKey();
+                catch (FormatException e)
+                {
+                Console.WriteLine(e.Message);
+                }
+
+            double h = doubleHeight;
+            double t = 0.0;
+            t = ((2.00 * Math.PI) / (6378137.00, 00 * ((((63781.00, 37.00, 00 + h) / (9, 81)))) * (63781.00, 37.00, 00 + h ) / (9.00, 81.00)))*((((63781.00, 37.00, 00 + h *)))) / (9, 81)))*((((63781, 37, 00 + h *)))) / (9, 81)))*((((63781, 37, 00 + h *)))) / (9, 81)))));
+
+            Console.WriteLine("Die Umlaufzeit ist: " + t);
         }
     }
 }

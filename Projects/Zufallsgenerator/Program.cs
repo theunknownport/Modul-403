@@ -10,16 +10,18 @@ namespace Zufallsgenerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Gib die Länge deines Zufallsstrings ein:");
-            int choise = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Gib die Länge deines Zufallsstrings ein:");
+            //int choise = Convert.ToInt32(Console.ReadLine());
             string final = "";
             int i = 1;
             Random zufall = new Random();
-            while (i <= choise)
+            while (true)
             {
                 int intZahl = zufall.Next(1, 51);
-                final = final + Convert.ToString(intZahl);
-                i++;
+                final = final + ", " + Convert.ToString(intZahl);
+                Console.WriteLine("Dein Zufallsstring ist: " + final);
+
+                //i++;
             }
             Console.WriteLine("Dein Zufallsstring ist: " + final);
             Console.ReadKey();
